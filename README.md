@@ -17,16 +17,16 @@ The output picture is created in the project directory and named « Image.ppm »
 
 ## Output example
 
-![IMG](http://i.imgur.com/N3g8Vvg.png)
-Example with parameters (in file raytracer.ccp) :
-Samples = 4
-GISamples = 4
-SNSamples = 4
-AmbientOcclusionIntensity = 0.5f
-AmbientOcclusion = true
-BiDirectionnal = true
-PhotonsPerLight = 20
-MaxBounces = 3
+![IMG](http://i.imgur.com/N3g8Vvg.png)  
+Example with parameters (in file raytracer.ccp) :  
+Samples = 4  
+GISamples = 4  
+SNSamples = 4  
+AmbientOcclusionIntensity = 0.5f  
+AmbientOcclusion = true  
+BiDirectionnal = true  
+PhotonsPerLight = 20  
+MaxBounces = 3  
 
 ## Contributor
 
